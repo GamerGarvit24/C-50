@@ -1,0 +1,18 @@
+.list{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about{
+    background-color:red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+
+.heading{
+    color:darkgreen;
+}
